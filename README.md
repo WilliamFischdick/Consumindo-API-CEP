@@ -1,2 +1,3 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Consumindo uma API
+
+Este repositório contém um projeto simples para treinamento de consumo de API.
